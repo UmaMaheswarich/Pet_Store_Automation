@@ -1,0 +1,10 @@
+basics\DiffwaysToCreate.class
+basics\Pojoclass.class
+basics\JsonSchemaValidation.class
+basics\HttpRequests.class
+basics\PathAndQueryParams.class
+basics\ValidateXmlResponseData.class
+basics\ValidateJsonResponse.class
+basics\Uploadfiles.class
+basics\HeadersValidation.class
+basics\Cookies.class

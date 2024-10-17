@@ -1,0 +1,83 @@
+{
+  "Students": [
+    {
+      "firstname": "ramanujan",
+      "lastname": "test",
+      "age": 450,
+      "courses": [
+        "JavaScript",
+        "seleniumwithjava"
+      ],
+      "id": "1"
+    },
+    {
+      "firstname": "Subash",
+      "lastname": "Singh",
+      "id": "2",
+      "age": 30,
+      "courses": [
+        "Python",
+        "AI"
+      ]
+    },
+    {
+      "id": "f103",
+      "courses": [
+        "c++",
+        "Ruby"
+      ],
+      "firstname": "Sneha",
+      "age": 30,
+      "lastname": "Gangula"
+    },
+    {
+      "id": "6659",
+      "courses": [
+        "c++",
+        "Ruby"
+      ],
+      "firstname": "Sneha",
+      "age": 30,
+      "lastname": "Gangula"
+    },
+    {
+      "id": "af1a"
+    },
+    {
+      "id": 6,
+      "courses": [
+        "c++",
+        "Ruby"
+      ],
+      "firstname": "Snehas",
+      "age": 30,
+      "lastname": "Gangula"
+    },
+    {
+      "id": 7,
+      "courses": [
+        "Java",
+        "Python"
+      ],
+      "firstname": "Mahi",
+      "age": 31,
+      "lastname": "Chennupati"
+    },
+    {
+      "id": "f1ed"
+    },
+    {
+      "id": "d974"
+    },
+    {
+      "id": 8,
+      "firstname": "Manu",
+      "lastname": "Gummadi",
+      "age": 7,
+      "courseArr": [
+        "C Sharp",
+        "Sql"
+      ]
+    }
+  ]
+}

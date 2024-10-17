@@ -1,0 +1,7 @@
+2024-10-15 14:23:05.737 [main] INFO  api.test.UserTestcase - ************The User is created ****************
+2024-10-15 14:23:10.326 [main] INFO  api.test.UserTestcase - ************The User was created successfully ****************
+2024-10-15 14:23:10.339 [main] INFO  api.test.UserTestcase - ************Reading the User****************
+2024-10-15 14:23:11.794 [main] INFO  api.test.UserTestcase - ************Get the User ****************
+2024-10-15 14:23:11.827 [main] INFO  api.test.UserTestcase - ************The User is updating****************
+2024-10-15 14:23:13.496 [main] INFO  api.test.UserTestcase - ************The User was updated ****************
+2024-10-15 14:23:14.885 [main] INFO  api.test.UserTestcase - ************The User was deleting ****************

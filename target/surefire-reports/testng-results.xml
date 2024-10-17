@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-16T16:47:04 IST" name="Suite" finished-at="2024-10-16T16:47:17 IST" duration-ms="12944">
+    <groups>
+    </groups>
+    <test started-at="2024-10-16T16:47:04 IST" name="Test" finished-at="2024-10-16T16:47:17 IST" duration-ms="12944">
+      <class name="api.test.UserTestcase">
+        <test-method is-config="true" signature="setUserPayload()[pri:0, instance:api.test.UserTestcase@31368b99]" started-at="2024-10-16T16:47:05 IST" name="setUserPayload" finished-at="2024-10-16T16:47:06 IST" duration-ms="1259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUserPayload -->
+        <test-method signature="validateCreateUser()[pri:1, instance:api.test.UserTestcase@31368b99]" started-at="2024-10-16T16:47:06 IST" name="validateCreateUser" finished-at="2024-10-16T16:47:10 IST" duration-ms="4294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateUser -->
+        <test-method signature="validateGetUser()[pri:2, instance:api.test.UserTestcase@31368b99]" started-at="2024-10-16T16:47:10 IST" name="validateGetUser" finished-at="2024-10-16T16:47:12 IST" duration-ms="1569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGetUser -->
+        <test-method signature="validateUpdateUser()[pri:3, instance:api.test.UserTestcase@31368b99]" started-at="2024-10-16T16:47:12 IST" name="validateUpdateUser" finished-at="2024-10-16T16:47:16 IST" duration-ms="3825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUpdateUser -->
+        <test-method signature="validateDeleteUser()[pri:4, instance:api.test.UserTestcase@31368b99]" started-at="2024-10-16T16:47:16 IST" name="validateDeleteUser" finished-at="2024-10-16T16:47:17 IST" duration-ms="1550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDeleteUser -->
+      </class> <!-- api.test.UserTestcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

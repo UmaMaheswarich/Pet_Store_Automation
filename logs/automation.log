@@ -1,0 +1,21 @@
+15:06:55.762 [main] INFO  api.test.UserTestcase - ************The User is created ****************
+15:06:59.938 [main] INFO  api.test.UserTestcase - ************The User was created successfully ****************
+15:06:59.953 [main] INFO  api.test.UserTestcase - ************Reading the User****************
+15:07:02.804 [main] INFO  api.test.UserTestcase - ************Get the User ****************
+15:07:02.868 [main] INFO  api.test.UserTestcase - ************The User is updating****************
+15:07:05.313 [main] INFO  api.test.UserTestcase - ************The User was updated ****************
+15:07:06.846 [main] INFO  api.test.UserTestcase - ************The User was deleting ****************
+16:54:08.083 [main] INFO  api.test.UserTestcase - ************The User is created ****************
+16:54:11.927 [main] INFO  api.test.UserTestcase - ************The User was created successfully ****************
+16:54:11.934 [main] INFO  api.test.UserTestcase - ************Reading the User****************
+16:54:13.236 [main] INFO  api.test.UserTestcase - ************Get the User ****************
+16:54:13.259 [main] INFO  api.test.UserTestcase - ************The User is updating****************
+16:54:14.648 [main] INFO  api.test.UserTestcase - ************The User was updated ****************
+16:54:15.980 [main] INFO  api.test.UserTestcase - ************The User was deleting ****************
+16:47:06.491 [main] INFO  api.test.UserTestcase - ************The User is created ****************
+16:47:10.765 [main] INFO  api.test.UserTestcase - ************The User was created successfully ****************
+16:47:10.774 [main] INFO  api.test.UserTestcase - ************Reading the User****************
+16:47:12.340 [main] INFO  api.test.UserTestcase - ************Get the User ****************
+16:47:12.355 [main] INFO  api.test.UserTestcase - ************The User is updating****************
+16:47:13.988 [main] INFO  api.test.UserTestcase - ************The User was updated ****************
+16:47:16.186 [main] INFO  api.test.UserTestcase - ************The User was deleting ****************
